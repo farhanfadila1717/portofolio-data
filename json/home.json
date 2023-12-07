@@ -30,7 +30,11 @@
     },
     {
       "thumbnail_url": "https://i.pinimg.com/564x/d0/1b/5c/d01b5c9b95cd0b1bb60221b6efb53082.jpg",
-      "thumbnails": [],
+      "thumbnails": [
+        "https://raw.githubusercontent.com/farhanfadila1717/portofolio-data/main/images/m_1.png",
+        "https://raw.githubusercontent.com/farhanfadila1717/portofolio-data/main/images/m_2.png",
+        "https://raw.githubusercontent.com/farhanfadila1717/portofolio-data/main/images/m_3.png"
+      ],
       "title": "Muslim Apps - Client App",
       "icons": [
         {
