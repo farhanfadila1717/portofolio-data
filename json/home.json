@@ -11,6 +11,7 @@
   "projects": [
     {
       "thumbnail_url": "https://i.pinimg.com/564x/d0/1b/5c/d01b5c9b95cd0b1bb60221b6efb53082.jpg",
+      "thumbnails": [],
       "title": "Bicarakan.id - Client App",
       "icons": [
         {
@@ -24,6 +25,25 @@
           "dark_icon_url": "https://raw.githubusercontent.com/farhanfadila1717/portofolio-data/main/icons/ic_apps_store_dark.svg",
           "text": "Visit Apps Store",
           "link": "https://apps.apple.com/id/app/bicarakan-id-psikolog-online/id1568030925"
+        }
+      ]
+    },
+    {
+      "thumbnail_url": "https://i.pinimg.com/564x/d0/1b/5c/d01b5c9b95cd0b1bb60221b6efb53082.jpg",
+      "thumbnails": [],
+      "title": "Muslim Apps - Client App",
+      "icons": [
+        {
+          "icon_url": "https://raw.githubusercontent.com/farhanfadila1717/portofolio-data/main/icons/ic_android.svg",
+          "dark_icon_url": "https://raw.githubusercontent.com/farhanfadila1717/portofolio-data/main/icons/ic_android_dark.svg",
+          "text": "Download APK",
+          "link": "https://drive.google.com/drive/folders/1_TLqWXif1ts8Mk443yImrFUdvJCjmILr?usp=drive_link"
+        },
+        {
+          "icon_url": "https://raw.githubusercontent.com/farhanfadila1717/portofolio-data/main/icons/ic_apps_store.svg",
+          "dark_icon_url": "https://raw.githubusercontent.com/farhanfadila1717/portofolio-data/main/icons/ic_apps_store_dark.svg",
+          "text": "Visit Github",
+          "link": "https://github.com/farhanfadila1717/muslim_apps"
         }
       ]
     }
