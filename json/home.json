@@ -7,5 +7,18 @@
   "banner": {
     "text": "Open To Freelance",
     "color": "4C3CC3"
-  }
+  },
+  "projects": [
+    {
+      "thumbnail_url": "https://placehold.co/600x400/png",
+      "icons": [
+        {
+          "icon_url": "",
+          "dark_icon_url": "",
+          "text": "Visit Play Store",
+          "link": ""
+        }
+      ]
+    }
+  ]
 }
