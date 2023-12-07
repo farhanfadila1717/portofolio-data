@@ -10,8 +10,8 @@
   },
   "social_buttons": [
     {
-      "icon_url": "https://raw.githubusercontent.com/farhanfadila1717/portofolio-data/main/icons/ic_play_store.svg",
-      "dark_icon_url": "https://raw.githubusercontent.com/farhanfadila1717/portofolio-data/main/icons/ic_play_store_dark.svg",
+      "icon_url": "https://raw.githubusercontent.com/farhanfadila1717/portofolio-data/main/icons/ic_linkedin.svg",
+      "dark_icon_url": "https://raw.githubusercontent.com/farhanfadila1717/portofolio-data/main/icons/ic_linkedin_dark.svg",
       "text": "LinkedIn",
       "link": "https://linkedin.com/in/farhan-fadila-b4b008186"
     }
