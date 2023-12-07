@@ -14,6 +14,18 @@
       "dark_icon_url": "https://raw.githubusercontent.com/farhanfadila1717/portofolio-data/main/icons/ic_linkedin_dark.svg",
       "text": "LinkedIn",
       "link": "https://linkedin.com/in/farhan-fadila-b4b008186"
+    },
+    {
+      "icon_url": "https://raw.githubusercontent.com/farhanfadila1717/portofolio-data/main/icons/ic_wa.svg",
+      "dark_icon_url": "https://raw.githubusercontent.com/farhanfadila1717/portofolio-data/main/icons/ic_wa_dark.svg",
+      "text": "WhatsApp",
+      "link": "https://wa.me/6289520117521/?text=Hi%20Farhan!"
+    },
+    {
+      "icon_url": "https://raw.githubusercontent.com/farhanfadila1717/portofolio-data/main/icons/ic_github.svg",
+      "dark_icon_url": "https://raw.githubusercontent.com/farhanfadila1717/portofolio-data/main/icons/ic_github_dark.svg",
+      "text": "GitHub",
+      "link": "https://github.com/farhanfadila1717"
     }
   ],
   "projects": [
