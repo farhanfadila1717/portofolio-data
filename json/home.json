@@ -8,6 +8,14 @@
     "text": "Open To Freelance",
     "color": "4C3CC3"
   },
+  "social_buttons": [
+    {
+      "icon_url": "https://raw.githubusercontent.com/farhanfadila1717/portofolio-data/main/icons/ic_play_store.svg",
+      "dark_icon_url": "https://raw.githubusercontent.com/farhanfadila1717/portofolio-data/main/icons/ic_play_store_dark.svg",
+      "text": "LinkedIn",
+      "link": "https://linkedin.com/in/farhan-fadila-b4b008186"
+    }
+  ],
   "projects": [
     {
       "thumbnail_url": "https://i.pinimg.com/564x/d0/1b/5c/d01b5c9b95cd0b1bb60221b6efb53082.jpg",
