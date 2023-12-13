@@ -75,5 +75,30 @@
         }
       ]
     }
+  ],
+  "open_source_projects": [
+    {
+      "thumbnail_url": "https://i.pinimg.com/564x/d0/1b/5c/d01b5c9b95cd0b1bb60221b6efb53082.jpg",
+      "thumbnails": [
+        "https://raw.githubusercontent.com/farhanfadila1717/portofolio-data/main/images/bc_1.png",
+        "https://raw.githubusercontent.com/farhanfadila1717/portofolio-data/main/images/bc_2.png",
+        "https://raw.githubusercontent.com/farhanfadila1717/portofolio-data/main/images/bc_3.png"
+      ],
+      "title": "Bicarakan.id - Client App",
+      "icons": [
+        {
+          "icon_url": "https://raw.githubusercontent.com/farhanfadila1717/portofolio-data/main/icons/ic_play_store.svg",
+          "dark_icon_url": "https://raw.githubusercontent.com/farhanfadila1717/portofolio-data/main/icons/ic_play_store_dark.svg",
+          "text": "Visit Play Store",
+          "link": "https://play.google.com/store/apps/details?id=id.bicarakan.client_app&pcampaignid=web_share"
+        },
+        {
+          "icon_url": "https://raw.githubusercontent.com/farhanfadila1717/portofolio-data/main/icons/ic_apps_store.svg",
+          "dark_icon_url": "https://raw.githubusercontent.com/farhanfadila1717/portofolio-data/main/icons/ic_apps_store_dark.svg",
+          "text": "Visit Apps Store",
+          "link": "https://apps.apple.com/id/app/bicarakan-id-psikolog-online/id1568030925"
+        }
+      ]
+    }
   ]
 }
