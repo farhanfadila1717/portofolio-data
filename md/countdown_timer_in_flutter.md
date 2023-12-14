@@ -41,7 +41,7 @@ SlideCountdown(
 
 **Output**
 
-![SlideCountdown with leading icon][i2]
+![SlideCountdown with leading icon][i3]
 
 Great, that's similar to what we want.
 
