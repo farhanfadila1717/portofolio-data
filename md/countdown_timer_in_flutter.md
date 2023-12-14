@@ -21,20 +21,27 @@ SlideCountdown(
 ```
 
 **Output**
-[image]
+
+![Default SlideCountdown][i2]
+
 But that's not what we're looking for. Let's further customize the SlideCountdown with leading icon
 
 ```dart
 SlideCountdown(
-  icon: Icon(
-     Icons.alarm,
-     color: Colors.white
+  duration: Duration(hours: 2),
+  icon: Padding(
+    padding: EdgeInsets.only(right: 4),
+    child: Icon(
+      Icons.alarm,
+      size: 20,
+    ),
   ),
-  duration: const Duration(days: 2),
-),
+)
 ```
 
 **Output**
+
+![SlideCountdown with leading icon][i2]
 
 Great, that's similar to what we want.
 
@@ -44,3 +51,5 @@ Great, that's similar to what we want.
 
 [pubdev]: https://pub.dev/packages/slide_countdown
 [i1]: https://raw.githubusercontent.com/farhanfadila1717/portofolio-data/main/images/b-1-1.png
+[i2]: https://raw.githubusercontent.com/farhanfadila1717/portofolio-data/main/images/b-1-2.png
+[i3]: https://raw.githubusercontent.com/farhanfadila1717/portofolio-data/main/images/b-1-3.png
